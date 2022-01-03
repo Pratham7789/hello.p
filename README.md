@@ -1,1 +1,7 @@
-# hello.p
+{
+  
+    // prints hello world
+    printf("Hello World");
+  
+    return 0;
+}
